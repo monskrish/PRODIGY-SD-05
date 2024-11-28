@@ -26,7 +26,6 @@ The scraper is designed to automate repetitive data collection tasks, making it 
 ## 📂 Project Structure  
 ```plaintext
 ├── Web Scraper Project.ipynb   # Jupyter Notebook file with implementation  
-├── requirements.txt            # List of dependencies (if applicable)  
 ├── README.md                   # Project documentation  
 ```  
 
